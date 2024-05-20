@@ -1,0 +1,26 @@
+[
+    {
+        "code": "M001",
+        "name": "Angga",
+        "penalty": null,
+        "penaltyEndDate": null,
+        "borrowedBooks": 0,
+        "borrowedDate": null
+    },
+    {
+        "code": "M002",
+        "name": "Ferry",
+        "penalty": null,
+        "penaltyEndDate": null,
+        "borrowedBooks": 0,
+        "borrowedDate": null
+    },
+    {
+        "code": "M003",
+        "name": "Putri",
+        "penalty": null,
+        "penaltyEndDate": null,
+        "borrowedBooks": 0,
+        "borrowedDate": null
+    }
+]
